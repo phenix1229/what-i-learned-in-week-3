@@ -7,6 +7,9 @@ I learned some more basics of Javascript including:
 * Parameters/arguments:
   * `function name(parameter(s)){};`
   * `name(argument(s));`
-* Scope
 * Returning values
+
+---
+
+* Scope
 * using `line.console` and debugger to troubleshoot
