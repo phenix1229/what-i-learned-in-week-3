@@ -11,5 +11,14 @@ I learned some more basics of Javascript including:
 
 ---
 
+## String methods
+I learned some of the built-in methods for altering/working with strings, including:
+* `.toUpperCase` - to change all items in string to uppercase
+* `.toLowerCase` - to change all items in string to lowercase
+* `.length` - to find length of a string
+* 
+---
+
+## Miscellaneous
 * Scope
 * using `line.console` and debugger to troubleshoot
